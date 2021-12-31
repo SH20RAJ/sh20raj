@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# JavaScript ❣️
+## From 🇮🇳
 
 **SH20RAJ/sh20raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +20,7 @@ Here are some ideas to get you started:
 ### [Our Repos](https://github.com/SH20RAJ?tab=repositories&q=&type=&language=&sort=stargazers)
 - Sopplayer - Stylish HTML5 Video Player :- https://sh20raj.github.io/Sopplayer/
 - AudiPlay - A Free HTML5 Audio Player :- https://github.com/SH20RAJ/AudiPlay
-- Tikee - Shorts Video Sharing, Viewing Platform Using pure JavaScript and Google sheets :- https://github.com/SH20RAJ/Tikee
+- Tikee - Shorts Video Sharing, Viewing Platform Using pure JavaScript and Google sheets (Under Construction) :- https://github.com/SH20RAJ/Tikee
 
 
 
