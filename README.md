@@ -5,7 +5,7 @@
 
 **SH20RAJ/sh20raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![SH20RAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh20raj)](https://github.com/SopProducts)
+[![SH20RAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh20raj)](https://github.com/sh20raj)
 
 
 Here are some ideas to get you started:
