@@ -1,30 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Sh 👋
 
-# JavaScript ❣️
-### From 🇮🇳
+## About Me
+I'm a passionate developer with a keen interest in web development and open-source projects. I love learning and exploring new technologies.
 
-**SH20RAJ/sh20raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- Programming Languages: Python, JavaScript, Java
+- Web Development: HTML, CSS, React, Node.js
+- Databases: MySQL, MongoDB
+- Version Control: Git, GitHub
 
-[![SH20RAJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh20raj&show_icons=true&theme=radical)](https://github.com/sh20raj)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently reading in high school
-- 🌱 I’m currently learning everything
-- 💞 Love to code. JavaScript is Love ❣️.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [CXDI - Serve Technology](https://www.google.com/search?q=cxdi+serve+technology&oq=cxdi&aqs=chrome.2.69i57j0i10i512j0i512l4j0i10i512j69i61.3616j0j7&sourceid=chrome&ie=UTF-8#:~:text=https%3A//codexdindia.blogspot.com)
-- 😄 Pronouns: #SHR
-- ⚡ Fun fact: I also make class notes like coding interface. 
-
-### [Our Repos](https://github.com/SH20RAJ?tab=repositories&q=&type=&language=&sort=stargazers)
-- Sopplayer - Stylish HTML5 Video Player :- https://sh20raj.github.io/Sopplayer/
-- AudiPlay - A Free HTML5 Audio Player :- https://github.com/SH20RAJ/AudiPlay
-- Tikee - Shorts Video Sharing, Viewing Platform Using pure JavaScript and Google sheets (Under Construction) :- https://github.com/SH20RAJ/Tikee
+## Websites
+- [CXDI - Serve Technology](https://codexdindia.blogspot.com/): Tech
+- [AppsPages](https://appspages.online): Publish your App Online for free
 
 
+## Find Me Online
+- Website: [sh20raj.com](https://sh20raj.com)
+- Telegram: [@cxdiin](https://t.me/cxdiin)
+- Linktree: [@cxdiin](https://linktr.ee/cxdiin)
 
-#### See More Repos :- [https://github.com/SH20RAJ?tab=repositories](https://github.com/SH20RAJ?tab=repositories&q=&type=&language=&sort=stargazers#:~:text=Shaswat%20Raj-,SH20RAJ,-Hi%20I%20am)
+## GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh20raj&show_icons=true&count_private=true)
+
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
