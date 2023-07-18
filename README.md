@@ -20,7 +20,7 @@ I'm a passionate developer with a keen interest in web development and open-sour
 - Linktree: [@cxdiin](https://linktr.ee/cxdiin)
 
 ## GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh20raj&show_icons=true&count_private=true)
+![Your Name's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)
 
 ## Recent Activity
 <!--START_SECTION:activity-->
