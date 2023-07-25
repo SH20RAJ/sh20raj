@@ -16,7 +16,7 @@ I'm a passionate developer with a keen interest in web development and open-sour
 
 ## Find Me Online
 - Website: [sh20raj.com](https://sh20raj.com)
-- Telegram: [@cxdiin](https://t.me/cxdiin)
+- Telegram: [@cxdiin](https://telegram.me/cxdiin)
 - Linktree: [@cxdiin](https://linktr.ee/cxdiin)
 
 ## GitHub Stats
