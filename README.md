@@ -5,9 +5,10 @@ I'm a passionate developer with a keen interest in web development and open-sour
 
 ## Skills
 - Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, React, Node.js
+- Web Development: HTML, CSS, Php, React, Node.js
 - Databases: MySQL, MongoDB
 - Version Control: Git, GitHub
+- Extra: Telegram/Discord/WhatsApp Bots
 
 ## Websites
 - [CXDI - Serve Technology](https://codexdindia.blogspot.com/): Tech
