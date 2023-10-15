@@ -6,6 +6,7 @@ I'm a passionate developer with a keen interest in web development and open-sour
 ## Skills
 - Programming Languages: Python, JavaScript, Java
 - Web Development: HTML, CSS, Php, React, Node.js
+- Android Development 
 - Databases: MySQL, MongoDB
 - Version Control: Git, GitHub
 - Extra: Telegram/Discord/WhatsApp Bots
