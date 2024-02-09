@@ -13,7 +13,7 @@ I'm a passionate developer with a keen interest in web development and open-sour
 - Databases: MySQL, MongoDB
 - Version Control: Git, GitHub
 - Extra: Telegram/Discord/WhatsApp Bots
-
+<!--
 ## Websites
 - [CXDI - Serve Technology](https://codexdindia.blogspot.com/): Tech
 - [AppsPages](https://appspages.online): Publish your App Online for free
@@ -23,7 +23,7 @@ I'm a passionate developer with a keen interest in web development and open-sour
 - [Coding Flames](https://github.com/Coding-Flames)
 - [ArticlePlanet](https://articleplanet.vercel.app/) - ArticlePlanet - Write, Learn and Share Stories with the world
 - [Codes20](https://codes20.github.io/) - Edit, Share, View Codes
-
+-->
 ## Find Me Online
 - Website: [sh20raj.com](https://sh20raj.com)
 - Telegram: [@cxdiin](https://telegram.me/cxdiin)
