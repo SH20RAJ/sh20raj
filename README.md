@@ -7,8 +7,8 @@ I'm a passionate developer with a keen interest in web development and open-sour
 ![Your Name's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)
 
 ## Skills
-- Programming Languages: Python, JavaScript, Java
-- Web Development: HTML, CSS, Php, React, Node.js
+- Programming Languages: Python, JavaScript
+- Web Development: HTML, CSS, Php, React, Node.js, NextJS
 - Android Development 
 - Databases: MySQL, MongoDB
 - Version Control: Git, GitHub
