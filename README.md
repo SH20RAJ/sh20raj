@@ -34,3 +34,9 @@ I'm a passionate developer with a keen interest in web development and open-sour
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
+
+<p align='center'>
+   <a href="https://github.com/estruyf/github-visitors-badge">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=sh20raj&repo=sh20raj&countColor=%237B1E7A" />
+   </a>
+</p>
