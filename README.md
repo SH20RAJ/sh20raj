@@ -2,10 +2,11 @@
 # Hi there, I'm Sh 👋
 <div align='center'>
 
-   <img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F7rdMxMWIVmM5XwG1OSh9%2Fuploads%2FyoQwVcSQBHZ3I7jEr45t%2F26FCB8DFF556503E977873B9A2D8899BB9B5AD1FAEB4F66A90123960EF5F0D81.jpeg?alt=media&token=8e58f7d2-5324-4d7f-a429-dd69ec30c0cd" >
-   
-I'm a passionate developer with a keen interest in web development and open-source projects.
-I love learning and exploring new technologies.
+   <img src="https://github.com/SH20RAJ/sh20raj/assets/66713844/4ea0befd-f4ae-4070-874e-8e95a6714179" >
+   <br><br>
+I'm a passionate developer 🚀 with a keen interest in web development and open-source projects.
+I love ❤️ learning and exploring new technologies.
+
 
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
 
