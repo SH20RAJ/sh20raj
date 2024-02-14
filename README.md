@@ -36,9 +36,15 @@ I'm a passionate developer with a keen interest in web development and open-sour
 <!--END_SECTION:activity-->
 
 <p align='center'>
+   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" />
+   </a>
+</p>
+
+<!--
+<p align='center'>
    <a href="https://visitorbadge.io/status?user=sh20raj&repo=sh20raj">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=sh20raj&repo=sh20raj&countColor=%237B1E7A" />
    </a>
 </p>
-
-<!-- Status - https://api.visitorbadge.io/api/status?user=sh20raj&repo=sh20raj -->
+ Status - https://api.visitorbadge.io/api/status?user=sh20raj&repo=sh20raj -->
