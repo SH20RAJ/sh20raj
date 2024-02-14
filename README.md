@@ -10,23 +10,23 @@ I love learning and exploring new technologies.
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
 
 ### Skills
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-blueviolet?logo=css3&logoColor=white&style=for-the-badge)
-![Php](https://img.shields.io/badge/Php-Intermediate-purple?logo=php&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-Expert-blueviolet?logo=css3&logoColor=white&style=for-the-badge)
+![Php](https://img.shields.io/badge/Php-Expert-purple?logo=php&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-Intermediate-blue?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green?logo=node.js&logoColor=white&style=for-the-badge)
-![NextJS](https://img.shields.io/badge/NextJS-Intermediate-black?logo=next.js&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-Expert-green?logo=node.js&logoColor=white&style=for-the-badge)
+![NextJS](https://img.shields.io/badge/NextJS-Expert-black?logo=next.js&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-Intermediate-green?logo=android&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?logo=mysql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Expert-blue?logo=mysql&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen?logo=mongodb&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Intermediate-orange?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Intermediate-lightgrey?logo=github&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Expert-orange?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Expert-lightgrey?logo=github&logoColor=white&style=for-the-badge)
 
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-Expert-blue?logo=telegram&logoColor=white&style=for-the-badge)
-![Discord Bots](https://img.shields.io/badge/Discord%20Bots-Expert-blue?logo=discord&logoColor=white&style=for-the-badge)
-![WhatsApp Bots](https://img.shields.io/badge/WhatsApp%20Bots-Expert-green?logo=whatsapp&logoColor=white&style=for-the-badge)
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-Intermediate-blue?logo=telegram&logoColor=white&style=for-the-badge)
+![Discord Bots](https://img.shields.io/badge/Discord%20Bots-Intermediate-blue?logo=discord&logoColor=white&style=for-the-badge)
+![WhatsApp Bots](https://img.shields.io/badge/WhatsApp%20Bots-Intermediate-green?logo=whatsapp&logoColor=white&style=for-the-badge)
 
 
 <!--
