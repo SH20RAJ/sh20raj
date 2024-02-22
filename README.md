@@ -62,7 +62,6 @@ I love ❤️ learning and exploring new technologies.
 <p align='center'>
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
       <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" />
-      <img src="https://grabify.link/K7G2RK" />
    </a>
 </p>
 
