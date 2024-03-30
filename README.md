@@ -17,6 +17,7 @@ I love ❤️ learning and exploring new technologies.
 
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sh20raj&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D)](#)
 ### Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
