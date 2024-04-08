@@ -75,6 +75,12 @@ I love ❤️ learning and exploring new technologies.
  Status - https://api.visitorbadge.io/api/status?user=sh20raj&repo=sh20raj -->
 
 
+
+
  </div>
+
+ 
+> [!TIP]
+> Follow me on [Twitter](https://x.com/SH20RAJ/) and [Dev Community](https://dev.to/sh20raj)
 
  ![](https://hit.yhype.me/github/profile?user_id=66713844)
