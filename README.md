@@ -6,8 +6,8 @@
    <img src="https://github.com/SH20RAJ/sh20raj/assets/66713844/bf91b39b-7590-434e-8ac3-a1969861b12f" >
    <img src="https://github.com/SH20RAJ/sh20raj/assets/66713844/a66616f4-8b23-4246-aba6-62b842b9be6d" >
 -->
-   <img src="https://github.com/SH20RAJ/sh20raj/assets/66713844/344678d0-3795-4d1f-b326-9bdd6846687b" >
-
+<!--    <img src="https://github.com/SH20RAJ/sh20raj/assets/66713844/344678d0-3795-4d1f-b326-9bdd6846687b" > -->
+   <img src="https://img.jsdelivr.com/github.com/SH20RAJ/sh20raj/assets/66713844/344678d0-3795-4d1f-b326-9bdd6846687b" >
    
    
 <h3> I'm a passionate developer 🚀 with a keen interest in web development and open-source projects.
