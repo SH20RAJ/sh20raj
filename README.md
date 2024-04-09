@@ -15,6 +15,10 @@ I love ❤️ learning and exploring new technologies.
 </h3>
    <br><br>
 
+   <a href="https://github.com/SH20RAJ/sh20raj/discussions/new?category=chat">
+   <img width="200" src="https://cdn.jsdelivr.net/gh/BluredCodes/statichost@main/chat.svg"/></a>
+   
+
 [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sh20raj&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D)](#)
