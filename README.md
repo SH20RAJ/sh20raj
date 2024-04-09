@@ -83,8 +83,14 @@ I love ❤️ learning and exploring new technologies.
 
  </div>
 
+
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/sh20raj)
+
  
 > [!TIP]
 > Follow me on [Twitter](https://x.com/SH20RAJ/) and [Dev Community](https://dev.to/sh20raj)
 
  ![](https://hit.yhype.me/github/profile?user_id=66713844)
+
+ 
