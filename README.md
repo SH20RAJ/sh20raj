@@ -36,6 +36,7 @@ I love ❤️ learning and exploring new technologies.
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen?logo=mongodb&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-Expert-orange?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Expert-lightgrey?logo=github&logoColor=white&style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-Intermediate-blue?logo=telegram&logoColor=white&style=for-the-badge)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-Intermediate-blue?logo=discord&logoColor=white&style=for-the-badge)
@@ -89,7 +90,7 @@ I love ❤️ learning and exploring new technologies.
 
  
 > [!TIP]
-> Follow me on [Twitter](https://x.com/SH20RAJ/) and [Dev Community](https://dev.to/sh20raj)
+> Follow me on [Twitter](https://x.com/SH20RAJ/) and [Dev Community](https://dev.to/sh20raj) (10k + followers)
 
  ![](https://hit.yhype.me/github/profile?user_id=66713844)
 
