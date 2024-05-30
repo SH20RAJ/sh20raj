@@ -70,7 +70,10 @@ I love ❤️ learning and exploring new technologies.
 
 ## Recent Activity
 <!--START_SECTION:activity-->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sh20raj?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/SH20RAJ/)
 
+
+<hr/>
 <!--END_SECTION:activity-->
 
 <p align='center'>
