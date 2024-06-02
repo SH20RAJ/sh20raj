@@ -96,6 +96,9 @@ I love ❤️ learning and exploring new technologies.
  </div>
 
 
+ ![sh20raj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
+
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/sh20raj)
 
