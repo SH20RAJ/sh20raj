@@ -1,5 +1,8 @@
 
-# Hi there, I'm Sh 👋
+<!--# Hi there, I'm Sh 👋-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1461FF&random=false&width=435&lines=Hi+there%2C+I'm+Sh+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
 <div align='center'>
 <!--
    <img src="https://github.com/SH20RAJ/sh20raj/assets/66713844/4ea0befd-f4ae-4070-874e-8e95a6714179" >
