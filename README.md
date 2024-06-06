@@ -83,14 +83,6 @@ I love ❤️ learning and exploring new technologies.
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sh20raj?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/SH20RAJ/)
 
 
-<hr/>
-<!--END_SECTION:activity-->
-
-<p align='center'>
-   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" />
-   </a>
-</p>
 
 <!--
 <p align='center'>
@@ -106,7 +98,12 @@ I love ❤️ learning and exploring new technologies.
  </div>
 
 
- ![sh20raj's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+
+<p align='center'>
+   <a href="#">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
+   </a>
+</p>
 
 
  
@@ -117,5 +114,16 @@ I love ❤️ learning and exploring new technologies.
 > Follow me on [Twitter](https://x.com/SH20RAJ/) and [Dev Community](https://dev.to/sh20raj) (10k + followers)
 
  ![](https://hit.yhype.me/github/profile?user_id=66713844)
+
+
+ <hr/>
+<!--END_SECTION:activity-->
+
+<p align='center'>
+   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" />
+   </a>
+</p>
+
 
  
