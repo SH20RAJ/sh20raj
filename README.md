@@ -4,7 +4,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Sh+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&random=false&width=435&lines=Hi+there%2C+I'm+Sh+%F0%9F%91%8B)](https://sh20raj.com)
 
 
 ---
