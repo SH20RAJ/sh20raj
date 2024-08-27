@@ -111,7 +111,7 @@ I love ❤️ learning and exploring new technologies.
 
  
 > [!TIP]
-> Follow me on [Twitter](https://x.com/SH20RAJ/) and [Dev Community](https://dev.to/sh20raj) (10k + followers)
+> Follow me on [Twitter](https://x.com/SH20RAJ/) and [Dev Community](https://dev.to/sh20raj) (40k + followers)
 
  ![](https://hit.yhype.me/github/profile?user_id=66713844)
 
