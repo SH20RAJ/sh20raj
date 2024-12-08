@@ -125,5 +125,8 @@ I love ❤️ learning and exploring new technologies.
    </a>
 </p>
 
-
- 
+[Linkedin](https://www.linkedin.com/in/sh20raj/)
+[Resume](https://docs.google.com/document/d/1_c8_1teca5JlCIFnsSC0rqoHcvxD5VJrlE-DeKZSXf4/edit?usp=sharing)
+[Portfolio Website](https://shaswat.live/)
+[Codepen](https://codepen.io/sh20raj)
+[Email](mailto:sh20raj@gmail.com)
