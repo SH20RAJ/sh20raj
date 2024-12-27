@@ -56,12 +56,12 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sh20raj?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/SH20RAJ/)
 
-I'm not into competative programming.
+I'm not into competitive programming.
 <div align="center">
 
    <a href="#">
       
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
    </a>
 </div>
 
