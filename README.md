@@ -9,6 +9,16 @@
    I love ❤️ learning and exploring new technologies.
    </h3>
 
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&includeNames=true
+)](https://github.com/Jurredr/github-widgetbox)
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&includeNames=true
+)](https://github.com/Jurredr/github-widgetbox)
+
+
    <br/>
 
    [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
