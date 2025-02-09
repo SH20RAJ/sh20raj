@@ -100,6 +100,6 @@ I'm not into competitive programming.
 
 <div align='center'>
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" alt="Visitor Count"/>
+      <img src="https://api.visitorbadge.io/api/PROFILE VIEWS?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" alt="PROFILE VIEWS"/>
    </a>
 </div>
