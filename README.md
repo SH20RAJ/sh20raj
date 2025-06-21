@@ -67,6 +67,18 @@
 - Recent Projects :- https://github.com/SH20RAJ?tab=stars
 - Portfolio :- https://shaswat.live
 
+
+| Topic | Org |
+| --- | --- |
+| SAAS | https://github.com/orgs/appedme/repositories |
+| Templates / Earn | https://github.com/orgs/mr-shade/repositories |
+| Open Source | https://github.com/orgs/shade-solutions/repositories |
+| YouTube | https://github.com/orgs/techshade/repositories |
+| Daksha | https://github.com/orgs/daksha-shade/repositories |
+| Writings | https://github.com/orgs/IamShRaj/repositories |
+| Creative Projects | https://github.com/orgs/alsocreative/repositories |
+
+
 ### 🌟 Recent Activity
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sh20raj?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/SH20RAJ/)
