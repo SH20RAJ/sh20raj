@@ -65,7 +65,7 @@
 ### Projects
 - See the list :- https://github.com/SH20RAJ?tab=stars
 - Recent Projects :- https://github.com/SH20RAJ?tab=stars
-- Portfolio :- https://shaswat.live
+- Portfolio :- https://sh20raj.github.io
 
 
 | Topic | Org |
@@ -104,7 +104,7 @@ I'm not into competitive programming.
 
 - [LinkedIn](https://www.linkedin.com/in/sh20raj/)
 - [Resume](https://docs.google.com/document/d/1_c8_1teca5JlCIFnsSC0rqoHcvxD5VJrlE-DeKZSXf4/edit?usp=sharing)
-- [Portfolio](https://shaswat.live/)
+- [Portfolio](https://sh20raj.github.io/)
 - [Codepen](https://codepen.io/sh20raj)
 - [Email](mailto:sh20raj@gmail.com)
 - [Twitter](https://x.com/SH20RAJ/)
