@@ -8,6 +8,9 @@
    <h3>I'm a passionate developer 🚀 with a keen interest in web development and open-source projects.<br>
    I love ❤️ learning and exploring new technologies.
    </h3>
+   
+   ![spiderman](https://github.com/user-attachments/assets/8217465e-5de3-4f3d-bf75-eb65c24fba09)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake-dark.svg" />
