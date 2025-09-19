@@ -114,6 +114,7 @@ I'm not into competitive programming.
 - [Dev Community](https://dev.to/sh20raj)
 - [Upwork](https://www.upwork.com/freelancers/~01a63e5aa20a7895dd)
 - [Peerlist](https://peerlist.io/sh20raj)
+- [Codeforces](https://codeforces.com/profile/sh20raj)
 
 <div align='center'>
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
