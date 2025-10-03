@@ -106,7 +106,8 @@ I'm not into competitive programming.
 ### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/sh20raj/)
-- [Resume](https://docs.google.com/document/d/1_c8_1teca5JlCIFnsSC0rqoHcvxD5VJrlE-DeKZSXf4/edit?usp=sharing)
+- [My Projects](https://www.notion.so/My-Projects-281f46ab158180968fe6e9ca8f1bec3f?source=copy_link)
+- [Resume](https://www.notion.so/Resume-277f46ab15818041b9ced7e568400015?source=copy_link)
 - [Portfolio](https://sh20raj.github.io/)
 - [Codepen](https://codepen.io/sh20raj)
 - [Email](mailto:sh20raj@gmail.com)
