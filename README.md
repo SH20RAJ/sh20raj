@@ -8,39 +8,19 @@
    <h3>I'm a passionate developer 🚀 with a keen interest in web development and open-source projects.<br>
    I love ❤️ learning and exploring new technologies.
    </h3>
-   
-   ![spiderman](https://github.com/user-attachments/assets/8217465e-5de3-4f3d-bf75-eb65c24fba09)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
-</picture>
-
-
-<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&includeNames=true
-)](https://github.com/Jurredr/github-widgetbox)
-
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&includeNames=true
-)](https://github.com/Jurredr/github-widgetbox)
-
--->
-   <br/>
-
-   [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
-
-   [![GitHub Streak](https://streak-stats.demolab.com?user=sh20raj&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D)](#)
 </div>
+
+
 
 ---
 
-I'm cleaning my profile flooded with so many projects (was genuine but looking spammy) and repos and dumping all of them to - https://github.com/sh20raj-dump
+I'm cleaning my profile flooded (500+) with so many projects (was genuine but looking spammy) and repos and dumping all of them to - https://github.com/sh20raj-dump
 
 ---
 
 ### 🚀 Skills
+
+<div align="center">
 
 #### Languages & Frameworks:
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white&style=for-the-badge)
@@ -66,6 +46,8 @@ I'm cleaning my profile flooded with so many projects (was genuine but looking s
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-Expert-blue?logo=telegram&logoColor=white&style=for-the-badge)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-Intermediate-blue?logo=discord&logoColor=white&style=for-the-badge)
 ![WhatsApp Bots](https://img.shields.io/badge/WhatsApp%20Bots-Intermediate-green?logo=whatsapp&logoColor=white&style=for-the-badge)
+
+</div>
 
 ---
 
@@ -125,4 +107,28 @@ I'm not into competitive programming.
    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
       <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" alt="Visitor Count"/>
    </a>
+</div>
+
+   ![spiderman](https://github.com/user-attachments/assets/8217465e-5de3-4f3d-bf75-eb65c24fba09)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
+</picture>
+
+
+<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&includeNames=true
+)](https://github.com/Jurredr/github-widgetbox)
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&includeNames=true
+)](https://github.com/Jurredr/github-widgetbox)
+
+-->
+   <br/>
+
+   [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
+
+   [![GitHub Streak](https://streak-stats.demolab.com?user=sh20raj&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D)](#)
 </div>
