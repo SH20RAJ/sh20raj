@@ -36,7 +36,7 @@
 
 ---
 
-I'm cleaning my profile flooded with so many projects and repos and dumping all of them to - https://github.com/sh20raj-dump
+I'm cleaning my profile flooded with so many projects (was genuine but looking spammy) and repos and dumping all of them to - https://github.com/sh20raj-dump
 
 ---
 
