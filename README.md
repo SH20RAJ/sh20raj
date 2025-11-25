@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaswat+Raj+%F0%9F%91%8B)](https://sh20raj.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaswat+Raj+%F0%9F%91%8B)](https://sh20raj.github.io)
 
 ---
 
@@ -131,4 +131,5 @@ I'm not into competitive programming.
    [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=sh20raj&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D)](#)
+   
 </div>
