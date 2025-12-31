@@ -66,6 +66,7 @@ I'm cleaning my profile flooded (500+) with so many projects (was genuine but lo
 | Daksha | https://github.com/orgs/daksha-shade/repositories |
 | Writings | https://github.com/orgs/IamShRaj/repositories |
 | Creative Projects | https://github.com/orgs/alsocreative/repositories |
+| Mobile Apps | https://github.com/shade-applications |
 
 
 ### 🌟 Recent Activity
