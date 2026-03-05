@@ -63,6 +63,7 @@ I'm cleaning my profile flooded (500+) with so many projects (was genuine but lo
 | SAAS | https://github.com/orgs/appedme/repositories |
 | Templates / Earn | https://github.com/orgs/mr-shade/repositories |
 | Open Source | https://github.com/orgs/shade-solutions/repositories |
+| Learning | https://github.com/sh20raj-daily |
 | YouTube | https://github.com/orgs/techshade/repositories |
 | Daksha | https://github.com/orgs/daksha-shade/repositories |
 | Writings | https://github.com/orgs/IamShRaj/repositories |
