@@ -73,7 +73,7 @@ I'm cleaning my profile flooded (500+) with so many projects (was genuine but lo
 
 ### 🌟 Recent Activity
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sh20raj?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/SH20RAJ/)
+[![LeetCode Stats](httpss://leetcard.jacoblin.cool/sh20raj?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/SH20RAJ/)
 
 I'm not into competitive programming.
 <div align="center">
@@ -88,7 +88,7 @@ I'm not into competitive programming.
 
 ### 🏆 Achievements
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/sh20raj)
+[![Trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=sh20raj&theme=onedark)](https://github.com/sh20raj)
 
 ---
 
