@@ -6,7 +6,7 @@
    <img src="https://img.jsdelivr.com/github.com/SH20RAJ/sh20raj/assets/66713844/344678d0-3795-4d1f-b326-9bdd6846687b" alt="Profile Banner">
    
    <h3>I'm a passionate developer 🚀 with a keen interest in web development and open-source projects.<br>
-   I love ❤️ learning and exploring new technologies.
+   I love ❤️ learning and exploring new technologies. See <a href="http://github.com/sh20raj/ideas">Ideas</a>
    </h3>
 </div>
 
