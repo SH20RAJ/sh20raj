@@ -10,6 +10,25 @@
    </h3>
 </div>
 
+---
+
+
+🚀 **Currently Building: DEBO**
+
+Hey everyone!
+I’m actively working on this project:
+👉 https://github.com/SH20RAJ/debo
+
+DEBO is something I’m really excited about, and it’s still evolving. I’d genuinely love your ideas, feedback, and contributions to make it better.
+
+💡 **How you can get involved:**
+
+* ⭐ Star the repo to support
+* 🐛 Report issues or suggest features
+* 🔧 Submit PRs (even small ones matter!)
+* 💬 Share your thoughts or improvements
+
+Let’s build something impactful together. Every contribution counts 🙌
 
 
 ---
