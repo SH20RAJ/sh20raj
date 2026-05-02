@@ -74,7 +74,6 @@ I'm cleaning my profile flooded (500+) with so many projects (was genuine but lo
 - See the list :- https://github.com/SH20RAJ?tab=stars
 - Recent Projects :- https://github.com/SH20RAJ?tab=stars
 - Portfolio :- https://sh20raj.github.io
-- GSOC'26 Journey :- https://medium.com/@sh20raj/merged-commits-for-gsoc26-9e88dd9a64c0
 
 
 | Topic | Org |
@@ -84,7 +83,6 @@ I'm cleaning my profile flooded (500+) with so many projects (was genuine but lo
 | Templates / Earn | https://github.com/orgs/mr-shade/repositories |
 | Open Source | https://github.com/orgs/shade-solutions/repositories |
 | Learning | https://github.com/sh20raj-daily |
-| YouTube | https://github.com/orgs/techshade/repositories |
 | Daksha | https://github.com/orgs/daksha-shade/repositories |
 | Writings | https://github.com/orgs/IamShRaj/repositories |
 | Creative Projects | https://github.com/orgs/alsocreative/repositories |
@@ -122,7 +120,6 @@ I'm not into competitive programming.
 - [Email](mailto:sh20raj@gmail.com)
 - [Twitter](https://x.com/SH20RAJ/)
 - [Dev Community](https://dev.to/sh20raj)
-- [Upwork](https://www.upwork.com/freelancers/~01a63e5aa20a7895dd)
 - [Peerlist](https://peerlist.io/sh20raj)
 - [Codeforces](https://codeforces.com/profile/sh20raj)
 - [Research on Me](/sh20raj_profile_research.md)
