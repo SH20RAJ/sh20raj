@@ -18,8 +18,6 @@ Hey everyone,
 I’m currently building something I care a lot about:
 👉 https://github.com/SH20RAJ/debo | https://debo.life/
 
-You can also [support](https://dodo.pe/debo) this project.
-
 **DEBO** is still evolving — it’s aimed at building a powerful, flexible system (or toolset) that can grow into something much bigger with community input. This is the best time to shape it together.
 
 **Ways to contribute:**
