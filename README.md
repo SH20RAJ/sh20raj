@@ -15,20 +15,6 @@
 
 Hey everyone,
 
-I’m currently building something I care a lot about:
-👉 https://github.com/SH20RAJ/debo | https://debo.life/
-
-**DEBO** is still evolving — it’s aimed at building a powerful, flexible system (or toolset) that can grow into something much bigger with community input. This is the best time to shape it together.
-
-**Ways to contribute:**
-
-* ⭐ Star the repo if you find it interesting
-* 🐛 Open issues or suggest features
-* 🔧 Submit PRs — even small improvements help a lot
-* 💬 Share your thoughts, ideas, or critiques
-
-I’m also building a few other SaaS projects:
-
 * https://formguard.unstory.app/
   → A tool focused on protecting forms from spam, abuse, and unwanted submissions (useful for devs building public forms)
 
