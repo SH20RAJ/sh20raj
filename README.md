@@ -13,22 +13,34 @@
 ---
 
 
-🚀 **Currently Building: DEBO**
+Hey everyone,
 
-Hey everyone!
-I’m actively working on this project:
-👉 https://github.com/SH20RAJ/debo
+I’m currently building something I care a lot about:
+👉 https://github.com/SH20RAJ/debo | https://debo.life/
 
-DEBO is something I’m really excited about, and it’s still evolving. I’d genuinely love your ideas, feedback, and contributions to make it better.
+You can also [support](https://dodo.pe/debo) this project.
 
-💡 **How you can get involved:**
+**DEBO** is still evolving — it’s aimed at building a powerful, flexible system (or toolset) that can grow into something much bigger with community input. This is the best time to shape it together.
 
-* ⭐ Star the repo to support
-* 🐛 Report issues or suggest features
-* 🔧 Submit PRs (even small ones matter!)
-* 💬 Share your thoughts or improvements
+**Ways to contribute:**
 
-Let’s build something impactful together. Every contribution counts 🙌
+* ⭐ Star the repo if you find it interesting
+* 🐛 Open issues or suggest features
+* 🔧 Submit PRs — even small improvements help a lot
+* 💬 Share your thoughts, ideas, or critiques
+
+I’m also building a few other SaaS projects:
+
+* https://formguard.unstory.app/
+  → A tool focused on protecting forms from spam, abuse, and unwanted submissions (useful for devs building public forms)
+
+* https://indexfast.co/
+  → Helps websites get indexed faster on search engines, improving visibility and SEO performance
+
+* https://30tools.com/
+  → A collection of simple, useful everyday tools (general utility platform for quick tasks)
+
+If something feels missing or can be improved, I’d genuinely value your input. Let’s build something impactful together.
 
 
 ---
