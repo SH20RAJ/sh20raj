@@ -15,6 +15,9 @@
 
 Hey everyone,
 
+* https://mcppure.30tools.com/
+  → High-performance MCP servers for AI agents. Open source, edge-native, and zero friction.
+
 * https://formguard.unstory.app/
   → A tool focused on protecting forms from spam, abuse, and unwanted submissions (useful for devs building public forms)
 
