@@ -1,135 +1,78 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=1000&color=1461FF&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaswat+Raj+%F0%9F%91%8B)](https://sh20raj.github.io)
-
----
-
-<div align="center">
-   <img src="https://img.jsdelivr.com/github.com/SH20RAJ/sh20raj/assets/66713844/344678d0-3795-4d1f-b326-9bdd6846687b" alt="Profile Banner">
-   
-   <h3>I'm a passionate developer 🚀 with a keen interest in web development and open-source projects.<br>
-   I love ❤️ learning and exploring new technologies. See <a href="http://github.com/sh20raj/ideas">Ideas</a>
-   </h3>
-</div>
-
----
-
-
-Hey everyone,
-
-* https://mcppure.30tools.com/
-  → High-performance MCP servers for AI agents. Open source, edge-native, and zero friction.
-
-* https://formguard.unstory.app/
-  → A tool focused on protecting forms from spam, abuse, and unwanted submissions (useful for devs building public forms)
-
-* https://indexfast.co/
-  → Helps websites get indexed faster on search engines, improving visibility and SEO performance
-
-* https://30tools.com/
-  → A collection of simple, useful everyday tools (general utility platform for quick tasks)
-
-If something feels missing or can be improved, I’d genuinely value your input. Let’s build something impactful together.
-
-
----
-
-I'm cleaning my profile flooded (500+) with so many projects (was genuine but looking spammy) and repos and dumping all of them to - https://github.com/sh20raj-dump
-
----
-
-### 🚀 Skills
-
 <div align="center">
 
-#### Languages & Frameworks:
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?logo=javascript&logoColor=white&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-Expert-black?logo=next.js&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/React-Intermediate-blue?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-Expert-green?logo=node.js&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python&logoColor=white&style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-Expert-orange?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-Expert-blueviolet?logo=css3&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-Expert-purple?logo=php&logoColor=white&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=1000&color=1461FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shaswat+Raj+%F0%9F%91%8B;Next.js+%26+AI+Product+Developer;I+ship+products%2C+not+slides)](https://sh20raj.github.io)
 
-#### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-Expert-blue?logo=mysql&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-brightgreen?logo=mongodb&logoColor=white&style=for-the-badge)
+**Full-stack developer shipping production Next.js & AI products.**
+Tools used by real people · 50+ npm packages · 10+ hackathon wins
 
-#### Tools:
-![Git](https://img.shields.io/badge/Git-Expert-orange?logo=git&logoColor=white&style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-Expert-lightgrey?logo=github&logoColor=white&style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-Expert-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Expert-brightgreen?logo=amazonaws&logoColor=white&style=for-the-badge&color=orange)
-
-#### Bots:
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-Expert-blue?logo=telegram&logoColor=white&style=for-the-badge)
-![Discord Bots](https://img.shields.io/badge/Discord%20Bots-Intermediate-blue?logo=discord&logoColor=white&style=for-the-badge)
-![WhatsApp Bots](https://img.shields.io/badge/WhatsApp%20Bots-Intermediate-green?logo=whatsapp&logoColor=white&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1461FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sh20raj.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh20raj/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh20raj@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SH20RAJ)
 
 </div>
 
 ---
 
-### Projects
-- See the list :- https://github.com/SH20RAJ?tab=stars
-- Recent Projects :- https://github.com/SH20RAJ?tab=stars
-- Portfolio :- https://sh20raj.github.io
+### 👋 About
 
+I'm a developer who likes to **ship**. I build landing pages, SaaS dashboards, AI tools, and MVPs — focused on getting working products in front of real users. Currently exploring AI agents, edge-native infra (Cloudflare Workers, Hono, Bun), and the Next.js + TypeScript ecosystem.
 
-| Topic | Org |
-| --- | --- |
-| OLD REPOS (Non-Vibe Coded 500+ Repos) | https://github.com/orgs/sh20raj-dump/repositories |
-| SAAS | https://github.com/orgs/unstory-app/repositories |
-| Templates / Earn | https://github.com/orgs/mr-shade/repositories |
-| Open Source | https://github.com/orgs/shade-solutions/repositories |
-| Learning | https://github.com/sh20raj-daily |
-| Daksha | https://github.com/orgs/daksha-shade/repositories |
-| Writings | https://github.com/orgs/IamShRaj/repositories |
-| Creative Projects | https://github.com/orgs/alsocreative/repositories |
-| Mobile Apps | https://github.com/shade-applications |
+- 🎓 Student at **BIT Mesra**
+- ⚡ Built & ran the full tech stack for **Bitotsav '26** (~5,000 participants)
+- 🌾 **Kishan AI** — Top 500 nationally, AICTE Productization Fellowship 2025
+- 🧰 Creator of **[30tools](https://30tools.com)**, **[MCPPure](https://mcppure.30tools.com)**, **Sopplayer**, and more
 
+---
 
-### 🌟 Recent Activity
+### 🚀 Featured Work
 
-[![LeetCode Stats](httpss://leetcard.jacoblin.cool/sh20raj?theme=dark&font=Prompt&ext=heatmap)](https://leetcode.com/u/SH20RAJ/)
+| Project | What it does | Traction |
+| --- | --- | --- |
+| **[30tools](https://30tools.com)** | 140+ free dev/creator browser tools | 4.3M+ requests/mo · 45K+ active users |
+| **[Sopplayer](https://github.com/SH20RAJ/Sopplayer)** | Stylish HTML5 video player library | 1.18M+ requests · 38GB via jsDelivr |
+| **[MCPPure](https://mcppure.30tools.com)** | High-performance MCP servers for AI agents | Edge-native, open source |
+| **Kishan AI** | AI assistant for farmers (crop diagnosis, mandi prices, voice) | AICTE Top 500 · 2025 |
+| **[Sanskrit](https://github.com/SH20RAJ/sanskrit)** | A programming language in Devanagari script | `npm i -g sanskrit-lang` |
+| **[PhpGram](https://github.com/SH20RAJ/phpgram)** | PHP library for the Telegram Bot API | On Packagist |
 
-I'm not into competitive programming.
+> 🔭 More on my **[portfolio](https://sh20raj.github.io)** and across my orgs ([SaaS](https://github.com/orgs/unstory-app/repositories) · [Open Source](https://github.com/orgs/shade-solutions/repositories) · [Mobile](https://github.com/shade-applications)).
+
+---
+
+### 🛠️ Tech Stack
+
 <div align="center">
 
-   <a href="#">
-      
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-   </a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+
 </div>
 
 ---
 
-### 🏆 Achievements
+### 📊 GitHub Stats
 
-[![Trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=sh20raj&theme=onedark)](https://github.com/sh20raj)
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 
-### 🌐 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/sh20raj/)
-- [My Projects](https://www.notion.so/My-Projects-281f46ab158180968fe6e9ca8f1bec3f?source=copy_link)
-- [Resume](https://www.notion.so/Resume-277f46ab15818041b9ced7e568400015?source=copy_link)
-- [Portfolio](https://sh20raj.github.io/)
-- [Codepen](https://codepen.io/sh20raj)
-- [Email](mailto:sh20raj@gmail.com)
-- [Twitter](https://x.com/SH20RAJ/)
-- [Dev Community](https://dev.to/sh20raj)
-- [Peerlist](https://peerlist.io/sh20raj)
-- [Codeforces](https://codeforces.com/profile/sh20raj)
-- [Research on Me](/sh20raj_profile_research.md)
-
-<div align='center'>
-   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2Fsh20raj%2F&countColor=%23263759" alt="Visitor Count"/>
-   </a>
 </div>
-
-   ![spiderman](https://github.com/user-attachments/assets/8217465e-5de3-4f3d-bf75-eb65c24fba09)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake-dark.svg" />
@@ -137,19 +80,17 @@ I'm not into competitive programming.
   <img alt="github-snake" src="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
 </picture>
 
+---
 
-<!--[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&includeNames=true
-)](https://github.com/Jurredr/github-widgetbox)
+### 🌐 Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1461FF?style=flat-square&logo=google-chrome&logoColor=white)](https://sh20raj.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh20raj/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/sh20raj)
+[![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/sh20raj)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/sh20raj)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sh20raj@gmail.com)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&includeNames=true
-)](https://github.com/Jurredr/github-widgetbox)
-
--->
-   <br/>
-
-   [![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sh20raj&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/sh20raj)
-
-   [![GitHub Streak](https://streak-stats.demolab.com?user=sh20raj&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D)](#)
-   
+<div align="center">
+  <sub>💡 Open to remote internships & freelance work — let's build something impactful together.</sub>
 </div>
