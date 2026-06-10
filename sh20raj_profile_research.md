@@ -281,7 +281,7 @@ Shaswat Raj (SH20RAJ) is a high-performing 19-20 year-old Computer Science stude
 - **Purpose**: Professional portfolio and project discovery platform
 
 ### Portfolio Website
-- **Main Site**: shaswat.live
+- **Main Site**: https://sh20raj.github.io/
 - **Content**: Tech stack overview, project links
 - **Purpose**: Central hub for professional identity
 
@@ -424,8 +424,8 @@ As an intern/early-career hire, Shaswat would bring:
 ### Contact & Further Engagement
 - **Twitter/X**: @SH20RAJ (latest updates, announcements)
 - **GitHub**: github.com/sh20raj (technical work samples)
-- **LinkedIn**: linkedin.com/in/shaswat-raj-58199b164 (professional profile)
-- **Portfolio**: shaswat.live (quick overview)
+- **LinkedIn**: linkedin.com/in/sh20raj (professional profile)
+- **Portfolio**: https://sh20raj.github.io/ (quick overview)
 - **Dev.to**: dev.to/sh20raj (articles and technical content)
 
 ---
