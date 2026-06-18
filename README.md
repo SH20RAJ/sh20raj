@@ -19,7 +19,7 @@ Tools used by real people · 50+ npm packages · 10+ hackathon wins
 I'm a developer who likes to **ship**. I build landing pages, SaaS dashboards, AI tools, and MVPs — focused on getting working products in front of real users. Currently exploring AI agents, edge-native infra (Cloudflare Workers, Hono, Bun), and the Next.js + TypeScript ecosystem.
 
 - 🎓 Student & [Teacher](https://www.youtube.com/@StackShade)
-- ⚡ Built & ran the full tech stack for **Bitotsav '26** (~5,000 participants)
+- ⚡ Built & ran the full tech stack for [**Bitotsav '26**](https://www.linkedin.com/posts/sh20raj_bitotsav-2026-what-a-journey-what-a-responsibility-share-7442565633432727552-vsKu/) (~5,000 participants)
 - 🌾 **[Kishan AI](https://kishanai.strivio.world/)** — Top 500 nationally, AICTE Productization Fellowship 2025
 - 🧰 Creator of **[debo](http://debo.life/)**, **[MCPPure](https://mcppure.shraj.workers.dev)**, **[Sopplayer](https://sh20raj.github.io/Sopplayer/)**, and [more](https://github.com/SH20RAJ?tab=repositories)
 
@@ -29,7 +29,7 @@ I'm a developer who likes to **ship**. I build landing pages, SaaS dashboards, A
 
 | Project | What it does | Traction |
 | --- | --- | --- |
-| **[30tools now Sopkit](https://sopkit.github.io/)** | 140+ free dev/creator browser tools | 4.3M+ requests/mo · 45K+ active users |
+| **[30tools (now Sopkit)](https://sopkit.github.io/)** | 140+ free dev/creator browser tools | 4.3M+ requests/mo · 45K+ active users |
 | **[Sopplayer](https://github.com/SH20RAJ/Sopplayer)** | Stylish HTML5 video player library | 1.18M+ requests · 38GB via jsDelivr |
 | **[MCPPure](https://mcppure.shraj.workers.dev)** | High-performance MCP servers for AI agents | Edge-native, open source |
 | **[Kishan AI](https://kishanai.strivio.world/)** | AI assistant for farmers (crop diagnosis, mandi prices, voice) | AICTE Top 500 · 2025 |
