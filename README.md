@@ -21,7 +21,7 @@ I'm a developer who likes to **ship**. I build landing pages, SaaS dashboards, A
 - 🎓 Student & [Teacher](https://www.youtube.com/@StackShade)
 - ⚡ Built & ran the full tech stack for **Bitotsav '26** (~5,000 participants)
 - 🌾 **[Kishan AI](https://kishanai.strivio.world/)** — Top 500 nationally, AICTE Productization Fellowship 2025
-- 🧰 Creator of **[debo](http://debo.life/)**, **[MCPPure](mcppure.shraj.workers.dev)**, **[Sopplayer](https://sh20raj.github.io/Sopplayer/)**, and [more](https://github.com/SH20RAJ?tab=repositories)
+- 🧰 Creator of **[debo](http://debo.life/)**, **[MCPPure](https://mcppure.shraj.workers.dev)**, **[Sopplayer](https://sh20raj.github.io/Sopplayer/)**, and [more](https://github.com/SH20RAJ?tab=repositories)
 
 ---
 
@@ -31,7 +31,7 @@ I'm a developer who likes to **ship**. I build landing pages, SaaS dashboards, A
 | --- | --- | --- |
 | **[30tools now Sopkit](https://sopkit.github.io/)** | 140+ free dev/creator browser tools | 4.3M+ requests/mo · 45K+ active users |
 | **[Sopplayer](https://github.com/SH20RAJ/Sopplayer)** | Stylish HTML5 video player library | 1.18M+ requests · 38GB via jsDelivr |
-| **[MCPPure](mcppure.shraj.workers.dev)** | High-performance MCP servers for AI agents | Edge-native, open source |
+| **[MCPPure](https://mcppure.shraj.workers.dev)** | High-performance MCP servers for AI agents | Edge-native, open source |
 | **[Kishan AI](https://kishanai.strivio.world/)** | AI assistant for farmers (crop diagnosis, mandi prices, voice) | AICTE Top 500 · 2025 |
 | **[Sanskrit](https://github.com/SH20RAJ/sanskrit)** | A programming language in Devanagari script | `npm i -g sanskrit-lang` |
 | **[Scriptly.store](https://github.com/SH20RAJ/scriptlyhq)** | ScriptlyHQ - Premium Digital Product Marketplace | https://scriptly.store |
