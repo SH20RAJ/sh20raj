@@ -8,8 +8,8 @@ Tools used by real people · 50+ npm packages · 10+ hackathon wins
 [![Portfolio](https://img.shields.io/badge/Portfolio-1461FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sh20raj.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh20raj/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh20raj@gmail.com)
-[![X](https://img.shields.io/badge/Peerlist-sh20raj-00AB46?logo=peerlist&style=for-the-badge)](https://peerlist.io/sh20raj)
-
+[![PeerList](https://img.shields.io/badge/Peerlist-sh20raj-00AB46?logo=peerlist&style=for-the-badge)](https://peerlist.io/sh20raj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/SH20RAJ/)
 </div>
 
 ---
