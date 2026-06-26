@@ -92,6 +92,8 @@ More - [Apify APIs](https://github.com/SH20RAJ/apify-apis) · [Hours](https://gi
 [![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=flat-square&logo=peerlist&logoColor=white)](https://peerlist.io/sh20raj)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/sh20raj)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sh20raj@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@StackShade)
+
 
 <div align="center">
   <sub>💡 Open to remote internships & freelance work — let's build something impactful together.</sub>
