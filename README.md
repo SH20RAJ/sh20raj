@@ -67,7 +67,7 @@ More - [Apify APIs](https://github.com/SH20RAJ/apify-apis) · [Hours](https://gi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats [Summary ~>](https://profile-summary-for-github.com/user/sh20raj)
 
 <div align="center">
 
