@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=38&pause=1000&color=1461FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Shaswat+Raj+%F0%9F%91%8B;Next.js+%26+AI+Product+Developer;I+ship+products%2C+not+slides)](https://sh20raj.github.io)
 
-**Full-stack developer shipping production Next.js & AI products.**
-Tools used by real people · 50+ npm packages · 10+ hackathon wins
+**Software Engineer building production AI products, SaaS platforms & developer tools.**  
+**10+ SaaS Apps · 50+ npm packages (1M+ monthly downloads) · 10+ Hackathon Wins · 4.3M+ Monthly Requests**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1461FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sh20raj.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh20raj/)
@@ -16,29 +16,37 @@ Tools used by real people · 50+ npm packages · 10+ hackathon wins
 
 ### 👋 About
 
-I'm a developer who likes to **ship**. I build landing pages, SaaS dashboards, AI tools, and MVPs — focused on getting working products in front of real users. Currently exploring AI agents, edge-native infra (Cloudflare Workers, Hono, Bun), and the Next.js + TypeScript ecosystem.
+I'm a software engineer passionate about building products that solve real problems at scale. I enjoy designing production systems, AI-powered applications, developer tools, and cloud-native platforms using Next.js, TypeScript, Node.js, Cloudflare Workers, and modern AI technologies. Alongside personal projects, I've collaborated with multiple startups to build MVPs, internal tools, SaaS platforms, and customer-facing products.
 
-- 🎓 Student & [Teacher](https://www.youtube.com/@StackShade)
-- ⚡ Built & ran the full tech stack for [**Bitotsav '26**](https://www.linkedin.com/posts/sh20raj_bitotsav-2026-what-a-journey-what-a-responsibility-share-7442565633432727552-vsKu/) (~5,000 participants)
-- 🌾 **[Kishan AI](https://kishanai.strivio.world/)** — Top 500 nationally, AICTE Productization Fellowship 2025
-- 🧰 Creator of **[debo](http://debo.life/)**, **[MCPPure](https://mcppure.shraj.workers.dev)**, **[Sopplayer](https://sh20raj.github.io/Sopplayer/)**, and [more](https://github.com/SH20RAJ?tab=repositories)
+- 🎓 B.Tech Computer Science Student & [Teacher](https://www.youtube.com/@StackShade)
+- 💼 Worked with multiple startups building production SaaS products, dashboards, AI tools, landing pages, and internal platforms
+- ⚡ Sole Engineering Lead for [**Bitotsav '26**](https://www.linkedin.com/posts/sh20raj_bitotsav-2026-what-a-journey-what-a-responsibility-share-7442565633432727552-vsKu/), architecting the complete technology ecosystem serving **5,000+ participants**
+- 🔒 Designed the complete architecture, encrypted QR verification system, backend infrastructure, deployment pipeline, and security model while presenting the technical architecture to college administration and faculty
+- 🌾 **[Kishan AI](https://kishanai.strivio.world/)** — AICTE Productization Fellowship 2025 **Top 500** nationwide
+- 📦 Creator of **50+ npm packages** with **1M+ combined monthly downloads**
+- 🚀 Built **10+ production SaaS applications** and developer tools
+- 🤖 Built Telegram bots serving **21K+ monthly active users**
+- 🌍 Active Open Source contributor with **15K+ GitHub contributions** and **300+ merged pull requests**
+- 🧰 Creator of **[debo](http://debo.life/)**, **[MCPPure](https://mcppure.shraj.workers.dev)**, **[Sopplayer](https://sh20raj.github.io/Sopplayer/)** and many more
 
 ---
 
 ### 🚀 Featured Work
 
-| Project | What it does | Traction |
+| Project | What it does | Impact |
 | --- | --- | --- |
-| **[30tools (now Sopkit)](https://sopkit.github.io/)** | 140+ free dev/creator browser tools | 4.3M+ requests/mo · 45K+ active users |
-| **[Sopplayer](https://github.com/SH20RAJ/Sopplayer)** | Stylish HTML5 video player library | 1.18M+ requests · 38GB via jsDelivr |
-| **[MCPPure](https://mcppure.shraj.workers.dev)** | High-performance MCP servers for AI agents | Edge-native, open source |
-| **[Kishan AI](https://kishanai.strivio.world/)** | AI assistant for farmers (crop diagnosis, mandi prices, voice) | AICTE Top 500 · 2025 |
-| **[Sanskrit](https://github.com/SH20RAJ/sanskrit)** | A programming language in Devanagari script | `npm i -g sanskrit-lang` |
-| **[Scriptly.store](https://github.com/SH20RAJ/scriptlyhq)** | ScriptlyHQ - Premium Digital Product Marketplace | https://scriptly.store |
+| **[Scriptly.store](https://github.com/SH20RAJ/scriptlyhq)** | Premium marketplace for developer products & templates | Production SaaS |
+| **[SopKit (formerly 30tools)](https://sopkit.github.io/)** | 140+ developer & productivity browser tools | **4.3M+ monthly requests · 45K+ active users** |
+| **[Bitotsav '26 Platform](https://www.linkedin.com/posts/sh20raj_bitotsav-2026-what-a-journey-what-a-responsibility-share-7442565633432727552-vsKu/)** | Complete event management platform with encrypted QR verification & admin ecosystem | **5,000+ participants · Sole Engineering Lead** |
+| **[Telegram Bot Platform](https://github.com/SH20RAJ)** | AI-powered automation, media processing & cloud services | **21K+ monthly active users** |
+| **[Sopplayer](https://github.com/SH20RAJ/Sopplayer)** | HTML5 video player library | **1.18M+ requests · 38GB+ served via jsDelivr** |
+| **[MCPPure](https://mcppure.shraj.workers.dev)** | High-performance MCP infrastructure for AI agents | Open Source |
+| **[Kishan AI](https://kishanai.strivio.world/)** | AI assistant for farmers (crop diagnosis, mandi prices, weather & voice) | **AICTE Top 500 · 2025** |
+| **[Sanskrit](https://github.com/SH20RAJ/sanskrit)** | Programming language written in Devanagari | `npm i -g sanskrit-lang` |
 
 More - [Apify APIs](https://github.com/SH20RAJ/apify-apis) · [Hours](https://github.com/SH20RAJ/hours) · [SketchFlow](https://github.com/SH20RAJ/sketch-flow) · [Picser](https://github.com/SH20RAJ/picser) · [AudiPlay](https://github.com/SH20RAJ/AudiPlay)
 
-> 🔭 More on my **[portfolio](https://sh20raj.github.io)** and across my orgs ([SaaS](https://github.com/orgs/unstory-app/repositories) · [Open Source](https://github.com/orgs/shade-solutions/repositories) · [Mobile](https://github.com/shade-applications)).
+> 🔭 More on my **[portfolio](https://sh20raj.github.io)** and across my organizations ([SaaS](https://github.com/orgs/unstory-app/repositories) · [Open Source](https://github.com/orgs/shade-solutions/repositories) · [Mobile](https://github.com/shade-applications)).
 
 ---
 
