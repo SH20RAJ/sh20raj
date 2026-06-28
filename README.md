@@ -52,7 +52,7 @@ More - [Apify APIs](https://github.com/SH20RAJ/apify-apis) · [Hours](https://gi
 
 ## 🛠️ Tech Stack
 <div align="center">
-<img width="1536" height="1024" alt="Tech Stack Jun 27, 2026, 11_53_06 AM" src="https://github.com/user-attachments/assets/edf2b9b3-e539-444b-8f77-263611ebf118" />
+<img width="1536" height="1024" alt="Tech Stack Jun 27, 2026, 11_53_06 AM" src="https://github.com/user-attachments/assets/dae9de8e-9996-46fe-bbd9-dd9a66410539" />
 
 </div>
 
