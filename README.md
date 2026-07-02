@@ -62,7 +62,7 @@ More - [Apify APIs](https://github.com/SH20RAJ/apify-apis) · [Hours](https://gi
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 
 </div>
