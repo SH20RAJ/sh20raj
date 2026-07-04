@@ -10,6 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh20raj@gmail.com)
 [![PeerList](https://img.shields.io/badge/Peerlist-sh20raj-00AB46?logo=peerlist&style=for-the-badge)](https://peerlist.io/sh20raj)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/SH20RAJ/)
+[![The Venture Vault](https://img.shields.io/badge/The%20Venture%20Vault-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000)](https://app.notion.com/p/The-Venture-Vault-393cd0ed0c25801eb0daf8cbf1862c94?source=copy_link)
 </div>
 
 ---
