@@ -64,7 +64,7 @@ More - [Apify APIs](https://github.com/SH20RAJ/apify-apis) · [Hours](https://gi
 <div align="center">
 
 <img height="160" src="https://github-stats-extended.vercel.app/api?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
 
 </div>
 
@@ -73,6 +73,11 @@ More - [Apify APIs](https://github.com/SH20RAJ/apify-apis) · [Hours](https://gi
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <img  src="https://leetcard.jacoblin.cool/sh20raj?ext=heatmap" alt="Leetcode Stats"/>
+
+</div>
 
 ---
 
