@@ -18,7 +18,7 @@
 ### 👋 About
 
 I'm a software engineer passionate about building products that solve real problems at scale. I enjoy designing production systems, AI-powered applications, developer tools, and cloud-native platforms using Next.js, TypeScript, Node.js, Cloudflare Workers, and modern AI technologies. Alongside personal projects, I've collaborated with multiple startups to build MVPs, internal tools, SaaS platforms, and customer-facing products.
-
+- ✨ Curently building [CampusLoop](https://campusloop.space/) - Your campus, verified & unfiltered.
 - 🎓 B.Tech Computer Science Student & [Teacher](https://www.youtube.com/@StackShade)
 - 💼 Worked with multiple startups building production SaaS products, dashboards, AI tools, landing pages, and internal platforms
 - ⚡ Sole Engineering Lead for [**Bitotsav '26**](https://www.linkedin.com/posts/sh20raj_bitotsav-2026-what-a-journey-what-a-responsibility-share-7442565633432727552-vsKu/), architecting the complete technology ecosystem serving **5,000+ participants**
