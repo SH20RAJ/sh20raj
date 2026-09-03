@@ -53,7 +53,9 @@ More - [Apify APIs](https://github.com/SH20RAJ/apify-apis) · [Hours](https://gi
 
 ## 🛠️ Tech Stack
 <div align="center">
-<img width="1536" height="1024" alt="Tech Stack Jun 27, 2026, 11_53_06 AM" src="https://github.com/user-attachments/assets/dae9de8e-9996-46fe-bbd9-dd9a66410539" />
+<!-- <img width="1536" height="1024" alt="Tech Stack Jun 27, 2026, 11_53_06 AM" src="https://github.com/user-attachments/assets/dae9de8e-9996-46fe-bbd9-dd9a66410539" /> -->
+
+<img width="1536" height="1024" alt="ChatGPT Image Sep 3, 2026, 10_07_35 AM" src="https://github.com/user-attachments/assets/db9b33d6-4e4c-4a31-b914-906f8b3da03c" />
 
 </div>
 
