@@ -5,12 +5,14 @@
 **Software Engineer building production AI products, SaaS platforms & developer tools.**  
 **10+ SaaS Apps · 50+ npm packages (1M+ monthly downloads) · 10+ Hackathon Wins · 4.3M+ Monthly Requests**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1461FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sh20raj.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh20raj/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh20raj@gmail.com)
-[![PeerList](https://img.shields.io/badge/Peerlist-sh20raj-00AB46?logo=peerlist&style=for-the-badge)](https://peerlist.io/sh20raj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/SH20RAJ/)
-[![The Venture Vault](https://img.shields.io/badge/The%20Venture%20Vault-FFFFFF?style=for-the-badge&logo=notion&logoColor=000000)](https://app.notion.com/p/The-Venture-Vault-393cd0ed0c25801eb0daf8cbf1862c94?source=copy_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1461FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://sh20raj.github.io)
+[![21st.dev](https://img.shields.io/badge/21st.dev-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sh20raj.21st.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sh20raj/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sh20raj@gmail.com)
+[![PeerList](https://img.shields.io/badge/Peerlist-sh20raj-00AB46?logo=peerlist\&style=for-the-badge)](https://peerlist.io/sh20raj)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=white\&style=for-the-badge)](https://leetcode.com/u/SH20RAJ/)
+[![The Venture Vault](https://img.shields.io/badge/The%20Venture%20Vault-FFFFFF?style=for-the-badge\&logo=notion\&logoColor=000000)](https://app.notion.com/p/The-Venture-Vault-393cd0ed0c25801eb0daf8cbf1862c94?source=copy_link)
+
 </div>
 
 ---
