@@ -1,55 +1,71 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=30\&pause=1000\&color=1461FF\&center=true\&vCenter=true\&width=850\&lines=Hi%2C+I'm+Shaswat+Raj+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Full-Stack+Builder;I+build+products%2C+developer+tools+%26+AI+systems)](https://sh20raj.github.io)
+<a href="https://sh20raj.github.io">
+  <img src="https://raw.githubusercontent.com/SH20RAJ/sh20raj/main/assets/readme/hero.svg" alt="Shaswat Raj — Software Engineer, AI systems and full-stack builder" width="100%">
+</a>
 
-### Software Engineer building production AI products, SaaS platforms & developer infrastructure.
-
-**Next.js · TypeScript · React · Node.js · Cloudflare · PostgreSQL · AI/LLMs · MCP**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1461FF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://sh20raj.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SH20RAJ)
-[![21st.dev](https://img.shields.io/badge/21st.dev-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sh20raj.21st.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sh20raj/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sh20raj@gmail.com)
-[![PeerList](https://img.shields.io/badge/Peerlist-sh20raj-00AB46?logo=peerlist\&style=for-the-badge)](https://peerlist.io/sh20raj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode\&logoColor=white\&style=for-the-badge)](https://leetcode.com/u/SH20RAJ/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@StackShade)
+<p>
+  <a href="https://sh20raj.github.io"><img src="https://img.shields.io/badge/Portfolio-1461FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/SH20RAJ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/sh20raj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@StackShade"><img src="https://img.shields.io/badge/StackShade-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="StackShade"></a>
+  <a href="https://peerlist.io/sh20raj"><img src="https://img.shields.io/badge/Peerlist-00AB46?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist"></a>
+  <a href="mailto:sh20raj@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
+> **I build products that ship.**  
+> AI systems, full-stack applications, developer tools, and edge-first infrastructure — from idea to production.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ What I'm building
+
+**[CampusLoop](https://campusloop.space/)**  
+A verified campus social platform with feeds, chat, matching, stories, communities, and campus utilities.
+
+**AI-native developer tooling**  
+RAG, agents, MCP servers, automation, search, and practical LLM workflows.
+
+**Open-source infrastructure**  
+Libraries, browser tools, CLI utilities, extensions, and systems that make developers faster.
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 How I work
+
+<code>discover → design → build → ship → measure → iterate</code>
+
+I care about:
+- simple architecture before clever architecture
+- fast feedback and real users
+- clean DX and maintainable systems
+- performance at the edge
+- shipping useful things, not just demos
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 👋 About
+## 🚀 Selected work
 
-I'm a software engineer and B.Tech Computer Science student focused on building **production-grade web systems, AI applications, developer tools, and cloud-native products**.
+| Project | What it is | Core engineering |
+|---|---|---|
+| **[CampusLoop](https://github.com/SH20RAJ/campusloop)** | Verified campus social network with feeds, chat, matching, stories, communities and utilities | <code>Next.js</code> · <code>Cloudflare</code> · <code>PostgreSQL</code> · <code>Drizzle</code> · <code>WebRTC</code> |
+| **[SopKit](https://github.com/SopKit/sopkit.github.io)** | Privacy-first collection of browser utilities running primarily on-device | <code>Web APIs</code> · <code>WebAssembly</code> · <code>SEO</code> · <code>Performance</code> |
+| **[Debo](https://github.com/SH20RAJ/debo)** | AI memory and retrieval system | <code>RAG</code> · <code>Embeddings</code> · <code>Hybrid Search</code> · <code>Agents</code> |
+| **[IndexFast](https://github.com/SH20RAJ/index-fast)** | Automated indexing and SEO tooling with MCP integrations | <code>Next.js</code> · <code>PostgreSQL</code> · <code>Drizzle</code> · <code>MCP</code> |
+| **[Sanskrit](https://github.com/SH20RAJ/sanskrit)** | Experimental programming language with Devanagari syntax | <code>Lexer</code> · <code>Parser</code> · <code>Interpreter</code> · <code>CLI</code> |
+| **[SopPlayer](https://github.com/SH20RAJ/Sopplayer)** | Lightweight HTML5 media player distributed through a CDN | <code>JavaScript</code> · <code>Media APIs</code> · <code>Library Engineering</code> |
 
-I enjoy taking ideas from architecture to deployment — designing APIs, databases, authentication systems, background jobs, AI pipelines, edge infrastructure, and polished product experiences.
-
-* 🚀 Currently building **[CampusLoop](https://campusloop.space/)** — a verified campus social network.
-* 🧠 Building AI products around **RAG, agents, MCP, automation, and developer workflows**.
-* ⚡ Sole Engineering Lead for **[Bitotsav '26](https://www.linkedin.com/posts/sh20raj_bitotsav-2026-what-a-journey-what-a-responsibility-share-7442565633432727552-vsKu/)**, architecting the technology ecosystem for **5,000+ participants**.
-* 🔐 Worked on authentication, encrypted QR verification, backend infrastructure, deployment pipelines, and production systems used by real users.
-* 📦 Creator of **50+ npm packages** and multiple open-source developer libraries.
-* 🌍 Active open-source contributor, including work in large projects such as **Gemini CLI, Rocket.Chat, and MoFA**.
-* 🎓 I also teach software engineering, DSA, AI, and computer science concepts through **[StackShade](https://www.youtube.com/@StackShade)**.
-* 🛠️ I build, ship, measure, iterate — and then rebuild it better.
-
----
-
-## 🚀 Featured Work
-
-| Project                                                    | What I Built                                                                                       | Engineering Focus                                                |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **[CampusLoop](https://github.com/SH20RAJ/campusloop)**    | Verified campus social network with feeds, chat, matching, stories, communities & campus utilities | **Next.js · Cloudflare Workers · PostgreSQL · Drizzle · WebRTC** |
-| **[SopKit](https://github.com/SopKit/sopkit.github.io)**   | Large collection of privacy-first browser tools running primarily client-side                      | **Web APIs · WebAssembly · SEO · Performance · Edge delivery**   |
-| **[Debo](https://github.com/SH20RAJ/debo)**                | AI memory system combining semantic retrieval and keyword search                                   | **RAG · Embeddings · Hybrid Search · Agents**                    |
-| **[Apify APIs](https://github.com/SH20RAJ/apify-apis)**    | Monorepo of reusable web intelligence, SEO, lead-generation & scraping actors                      | **TypeScript · Crawlee · Apify · Monorepo Architecture**         |
-| **[IndexFast](https://github.com/SH20RAJ/index-fast)**     | Automated indexing platform with SEO tooling and MCP integrations                                  | **Next.js · PostgreSQL · Drizzle · MCP · Automation**            |
-| **[ScriptlyStore](https://github.com/SH20RAJ/scriptlyhq)** | Developer marketplace for templates, scripts and digital products                                  | **Payments · Auth · PostgreSQL · Cloudflare · Secure Downloads** |
-| **[Sanskrit](https://github.com/SH20RAJ/sanskrit)**        | Experimental programming language using Devanagari syntax                                          | **Lexer · Parser · Interpreter · CLI · Language Design**         |
-| **[SopPlayer](https://github.com/SH20RAJ/Sopplayer)**      | Lightweight HTML5 media player distributed through CDN                                             | **JavaScript · Media APIs · Library Engineering**                |
-
-### 🌟 Other Builds
+<details>
+<summary><strong>More things I've built</strong></summary>
 
 [Bitotsav '26](https://github.com/SH20RAJ/bitotsav26) ·
 [KishanAI](https://github.com/SH20RAJ/KishanAI) ·
@@ -60,141 +76,116 @@ I enjoy taking ideas from architecture to deployment — designing APIs, databas
 [CodeSeek](https://github.com/SH20RAJ/CodeSeek) ·
 [Picser](https://github.com/SH20RAJ/picser)
 
-> 🔭 Explore more projects on my **[portfolio](https://sh20raj.github.io)** and **[GitHub](https://github.com/SH20RAJ)**.
+</details>
 
 ---
 
-## 🤝 Open Source
+## 🧠 Areas I enjoy
 
-I enjoy working inside real-world codebases, debugging unfamiliar systems, and shipping focused fixes.
-
-### Contributions
-
-* **Google Gemini CLI** — environment sanitization, terminal environment propagation, PTY/child-process behavior and tests.
-* **Rocket.Chat** — React state/query fixes, accessibility improvements, type-safety cleanup and error handling.
-* **MoFA** — testing infrastructure, report exporters, timeout helpers and reliability fixes.
-* Additional contributions across open-source developer and community platforms.
-
-> 🧩 I care less about the size of a PR and more about understanding the system behind it.
-
----
-
-## 🧠 What I Like Building
-
-```text
-AI Systems
-├── RAG & Hybrid Search
-├── AI Agents
-├── MCP Servers & Tools
-├── LLM-powered workflows
-└── Automation
-
-Full-Stack Systems
-├── Next.js / React
-├── TypeScript / Node.js
-├── PostgreSQL / Redis
-├── Authentication & APIs
-└── Real-time Applications
-
-Cloud & Infrastructure
-├── Cloudflare Workers
-├── Edge-first architectures
-├── Serverless applications
-├── Background jobs & automation
-└── Performance optimization
-
-Developer Tools
-├── npm libraries
-├── Browser tools
-├── VS Code extensions
-├── CLI applications
-└── Scraping / data infrastructure
-```
+<table>
+<tr>
+<td><strong>AI Systems</strong><br>RAG · Agents · MCP · Embeddings · LLM workflows</td>
+<td><strong>Product Engineering</strong><br>Next.js · React · TypeScript · Node.js · APIs</td>
+</tr>
+<tr>
+<td><strong>Data & Backend</strong><br>PostgreSQL · MongoDB · Redis · Drizzle · Prisma</td>
+<td><strong>Cloud & Edge</strong><br>Cloudflare Workers · Serverless · Edge Runtime · CI/CD</td>
+</tr>
+<tr>
+<td><strong>Developer Tools</strong><br>npm packages · CLIs · VS Code extensions · Browser APIs</td>
+<td><strong>Infra & Automation</strong><br>WebSockets · queues · crawling · scraping · automation</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Toolbox
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,cloudflare,vercel,git,github,docker,linux,vscode&perline=9" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,react,nextjs,nodejs,tailwind,postgres,mongodb,redis,cloudflare,vercel,docker,git,github,linux,vscode&perline=9" alt="Tech stack">
 
 </div>
 
-### Core
-
-**TypeScript · JavaScript · Python · Rust · React · Next.js · Node.js**
-
-### Data & Backend
-
-**PostgreSQL · MongoDB · Redis · Drizzle · Prisma · REST APIs · WebSockets**
-
-### Cloud
-
-**Cloudflare Workers · Vercel · Serverless · Edge Runtime · GitHub Actions**
-
-### AI
-
-**LLMs · RAG · Embeddings · Agents · MCP · AI SDKs · OpenAI-compatible APIs**
-
-### Developer Tools
-
-**npm · CLI tooling · VS Code Extensions · Crawling · Scraping · Browser APIs**
+<p align="center">
+<strong>TypeScript</strong> · <strong>JavaScript</strong> · <strong>Python</strong> · <strong>Rust</strong> ·
+<strong>React</strong> · <strong>Next.js</strong> · <strong>Node.js</strong> ·
+<strong>PostgreSQL</strong> · <strong>Cloudflare</strong> · <strong>Docker</strong>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Open source
+
+I enjoy entering unfamiliar codebases, understanding the system, and shipping focused fixes.
+
+**Recent contribution areas**
+- **Google Gemini CLI** — environment handling, terminal propagation, PTY / child-process behavior, and tests.
+- **Rocket.Chat** — React state/query fixes, accessibility, type safety, and error handling.
+- **MoFA** — testing infrastructure, report exporters, timeout helpers, and reliability work.
+
+> Good open source work is often less about the size of the diff and more about understanding the system behind it.
+
+---
+
+## 📦 A few numbers
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SH20RAJ&theme=github_dark" alt="GitHub Profile Summary"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/sh20raj?ext=heatmap" alt="LeetCode Stats"/>
+| 50+ | 5,000+ | AI × OSS |
+|---|---|---|
+| npm packages created | participants supported by Bitotsav '26 engineering ecosystem | the intersection I keep exploring |
 
 </div>
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="GitHub statistics">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sh20raj&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Most used languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SH20RAJ&theme=github_dark" alt="GitHub profile summary">
+
+</div>
+
+<details>
+<summary><strong>Contribution activity</strong></summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sh20raj/sh20raj/output/github-snake.svg">
 </picture>
 
----
-
-## 🌐 Find Me Online
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-1461FF?style=flat-square\&logo=google-chrome\&logoColor=white)](https://sh20raj.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/SH20RAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sh20raj/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square\&logo=dev.to\&logoColor=white)](https://dev.to/sh20raj)
-[![Peerlist](https://img.shields.io/badge/Peerlist-00AA45?style=flat-square\&logo=peerlist\&logoColor=white)](https://peerlist.io/sh20raj)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=flat-square\&logo=codepen\&logoColor=white)](https://codepen.io/sh20raj)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:sh20raj@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square\&logo=youtube\&logoColor=white)](https://www.youtube.com/@StackShade)
-[![21st.dev](https://img.shields.io/badge/21st.dev-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://sh20raj.21st.dev/)
+</details>
 
 ---
+
+## 🌐 Elsewhere
+
+<p align="center">
+  <a href="https://sh20raj.github.io">Portfolio</a> ·
+  <a href="https://github.com/SH20RAJ">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/sh20raj/">LinkedIn</a> ·
+  <a href="https://dev.to/sh20raj">Dev.to</a> ·
+  <a href="https://peerlist.io/sh20raj">Peerlist</a> ·
+  <a href="https://codepen.io/sh20raj">CodePen</a> ·
+  <a href="https://www.youtube.com/@StackShade">YouTube</a> ·
+  <a href="https://sh20raj.21st.dev/">21st.dev</a>
+</p>
 
 <div align="center">
 
-### 💡 Build > Ship > Learn > Repeat
+### Build → Ship → Learn → Repeat
 
-**Open to interesting engineering opportunities, internships, freelance work, and ambitious product collaborations.**
+<sub>Engineering is the craft of turning ideas into useful systems.</sub>
 
 </div>
