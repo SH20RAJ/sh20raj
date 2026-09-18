@@ -67,7 +67,7 @@ I care about:
 <details>
 <summary><strong>More things I've built</strong></summary>
 
-[Bitotsav '26](https://github.com/SH20RAJ/bitotsav26) ·
+[Bitotsav '26](https://www.linkedin.com/posts/shaswatraj_bitotsav-2026-what-a-journey-what-a-responsibility-activity-7442608760193216512-Y_nn) ·
 [KishanAI](https://github.com/SH20RAJ/KishanAI) ·
 [Solus](https://github.com/SH20RAJ/solus) ·
 [Linespedia](https://github.com/SH20RAJ/linepedia) ·
