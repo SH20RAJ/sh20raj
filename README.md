@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=38\&pause=1000\&color=1461FF\&center=true\&vCenter=true\&width=700\&lines=Hi%2C+I'm+Shaswat+Raj+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Full-Stack+Builder;I+build+products%2C+developer+tools+%26+AI+systems)](https://sh20raj.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins\&size=30\&pause=1000\&color=1461FF\&center=true\&vCenter=true\&width=850\&lines=Hi%2C+I'm+Shaswat+Raj+%F0%9F%91%8B;Software+Engineer+%7C+AI+%26+Full-Stack+Builder;I+build+products%2C+developer+tools+%26+AI+systems)](https://sh20raj.github.io)
 
 ### Software Engineer building production AI products, SaaS platforms & developer infrastructure.
 
