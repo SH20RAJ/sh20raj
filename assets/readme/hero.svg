@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Shaswat Raj — Software Engineer</title>
+  <desc id="desc">A visual profile header focused on AI systems, full-stack products, developer tools and cloud infrastructure.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070B14"/>
+      <stop offset="55%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#11182A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity=".28"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94A3B8" stroke-opacity=".08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1398" height="418" rx="27" fill="url(#grid)" stroke="#253148"/>
+  <circle cx="1130" cy="90" r="220" fill="url(#glow)"/>
+  <circle cx="1215" cy="118" r="70" fill="none" stroke="#58A6FF" stroke-opacity=".16"/>
+  <circle cx="1215" cy="118" r="110" fill="none" stroke="#8B5CF6" stroke-opacity=".12"/>
+  <circle cx="1215" cy="118" r="150" fill="none" stroke="#22C55E" stroke-opacity=".08"/>
+
+  <g transform="translate(90 76)">
+    <rect width="118" height="30" rx="15" fill="#111827" stroke="#334155"/>
+    <text x="59" y="20" text-anchor="middle" fill="#A5B4FC" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">SH20RAJ / DEV</text>
+
+    <text x="0" y="100" fill="#F8FAFC" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="64" font-weight="800" letter-spacing="-2">SHASWAT RAJ</text>
+    <rect x="0" y="122" width="720" height="5" rx="2.5" fill="url(#accent)"/>
+
+    <text x="0" y="164" fill="#CBD5E1" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="500">Software Engineer · AI Systems · Full-Stack Builder</text>
+    <text x="0" y="201" fill="#94A3B8" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16">I build production products, developer tools and cloud-native systems.</text>
+
+    <g transform="translate(0 242)">
+      <g>
+        <rect width="190" height="42" rx="12" fill="#0F172A" stroke="#27415F"/>
+        <circle cx="22" cy="21" r="5" fill="#58A6FF"/>
+        <text x="38" y="27" fill="#E2E8F0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="700">AI · RAG · MCP</text>
+      </g>
+      <g transform="translate(204 0)">
+        <rect width="190" height="42" rx="12" fill="#0F172A" stroke="#3E315F"/>
+        <circle cx="22" cy="21" r="5" fill="#8B5CF6"/>
+        <text x="38" y="27" fill="#E2E8F0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="700">Next.js · TypeScript</text>
+      </g>
+      <g transform="translate(408 0)">
+        <rect width="190" height="42" rx="12" fill="#0F172A" stroke="#2B4B3E"/>
+        <circle cx="22" cy="21" r="5" fill="#22C55E"/>
+        <text x="38" y="27" fill="#E2E8F0" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="700">Cloud · Edge · OSS</text>
+      </g>
+    </g>
+  </g>
+
+  <g transform="translate(1000 250)">
+    <rect width="270" height="92" rx="18" fill="#0B1220" fill-opacity=".86" stroke="#26364F"/>
+    <text x="22" y="30" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">BUILD LOOP</text>
+    <text x="22" y="58" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700">BUILD → SHIP → LEARN</text>
+    <text x="22" y="78" fill="#8B5CF6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">repeat.sh</text>
+  </g>
+</svg>
