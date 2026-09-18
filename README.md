@@ -39,9 +39,9 @@ I'm a software engineer passionate about building products that solve real probl
 | Project | What it does | Impact |
 | --- | --- | --- |
 | **[Scriptly.store](https://github.com/SH20RAJ/scriptlyhq)** | Premium marketplace for developer products & templates | Production SaaS |
-| **[SopKit (formerly 30tools)](https://sopkit.github.io/)** | 140+ developer & productivity browser tools | **4.3M+ monthly requests · 45K+ active users** |
-| **[Bitotsav '26 Platform](https://www.linkedin.com/posts/sh20raj_bitotsav-2026-what-a-journey-what-a-responsibility-share-7442565633432727552-vsKu/)** | Complete event management platform with encrypted QR verification & admin ecosystem | **5,000+ participants · Sole Engineering Lead** |
-| **[Telegram Bot Platform](https://github.com/SH20RAJ)** | AI-powered automation, media processing & cloud services | **21K+ monthly active users** |
+| **[SopKit](https://sopkit.github.io/)** | 140+ developer & productivity browser tools | **4.3M+ monthly requests · 45K+ active users**  (formerly 30tools)|
+| **[Bitotsav'26](https://www.linkedin.com/posts/sh20raj_bitotsav-2026-what-a-journey-what-a-responsibility-share-7442565633432727552-vsKu/)** | Complete event management platform with encrypted QR verification & admin ecosystem | **5,000+ participants · Sole Engineering Lead** |
+| **[Telegram Bots](https://github.com/SH20RAJ)** | AI-powered automation, media processing & cloud services | **21K+ monthly active users** |
 | **[Sopplayer](https://github.com/SH20RAJ/Sopplayer)** | HTML5 video player library | **1.18M+ requests · 38GB+ served via jsDelivr** |
 | **[MCPPure](https://mcppure.shraj.workers.dev)** | High-performance MCP infrastructure for AI agents | Open Source |
 | **[Kishan AI](https://kishanai.strivio.world/)** | AI assistant for farmers (crop diagnosis, mandi prices, weather & voice) | **AICTE Top 500 · 2025** |
